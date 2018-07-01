@@ -3,6 +3,7 @@ layout: post
 title: "Formal Hardware Verification Resources"
 date: 2014-04-30
 ---
+# Formal Hardware Verification Resources
 
 Hello everyone! I've finally gotten around to making myself a website. Since Jekyll makes blogging so easy, I thought I'd give it a try.
 
