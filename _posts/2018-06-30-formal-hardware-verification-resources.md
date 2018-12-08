@@ -19,6 +19,10 @@ This is by no means an exhaustive list, there are plenty of great papers and res
   * [Introduction to Satisfiability Modulo Theories](https://cs.nyu.edu/~barrett/pubs/BT14.pdf)
   * [NYU Class Materials: Logic in Computer Science](https://cs.nyu.edu/courses/fall09/G22.2390-001/index.html)
   * [NYU Class Materials: Topics in Automated Deduction](https://cs.nyu.edu/courses/spring07/G22.3033-009/index.html)
+  * A fantastic set of fun problems and examples: [SAT/SMT by example](https://yurichev.com/writings/SAT_SMT_by_example.pdf)
+  * Books
+    * [Decision Procedures -- An Algorithmic Point of View](http://www.decision-procedures.org/)
+    * [Handbook of Satisfiability](https://www.amazon.com/Handbook-Satisfiability-Artificial-Intelligence-Applications/dp/1586039296)
 
 * Other Collections
   * [One of the Few Great Collections of SAT/SMT and Model Checking Resources](http://satassociation.org/tutorials.html)
