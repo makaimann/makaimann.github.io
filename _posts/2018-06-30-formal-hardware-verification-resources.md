@@ -20,8 +20,9 @@ This is by no means an exhaustive list, there are plenty of great papers and res
   * [NYU Class Materials: Logic in Computer Science](https://cs.nyu.edu/courses/fall09/G22.2390-001/index.html)
   * [NYU Class Materials: Topics in Automated Deduction](https://cs.nyu.edu/courses/spring07/G22.3033-009/index.html)
   * A fantastic set of fun problems and examples: [SAT/SMT by example](https://yurichev.com/writings/SAT_SMT_by_example.pdf)
-  * Books
+  * Some Excellent Books
     * [Decision Procedures -- An Algorithmic Point of View](http://www.decision-procedures.org/)
+    * [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127)
     * [Handbook of Satisfiability](https://www.amazon.com/Handbook-Satisfiability-Artificial-Intelligence-Applications/dp/1586039296)
 
 * Other Collections
