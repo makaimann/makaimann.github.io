@@ -11,7 +11,7 @@ layout: feed
 	<id>http://makaimann.github.io/blog</id>
 	<author>
 		<name>Makai Mann</name>
-		<email>makaim@stanford.edu</email>
+		<email>makaim@cs.stanford.edu</email>
 	</author>
 
 	{% for post in site.posts %}
